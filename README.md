@@ -1,2 +1,2 @@
-# dio-trilha-java
+# exercicios
 Repositório para exercícios.
